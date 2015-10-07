@@ -1,6 +1,8 @@
 seneca-beanstalk-transport
 ==========================
 
+[![Join the chat at https://gitter.im/maxired/seneca-beanstalk-transport](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/maxired/seneca-beanstalk-transport?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Seneca micro-services message transport over beanstalkd queues.
 
 ## Support
